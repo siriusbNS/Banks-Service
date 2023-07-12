@@ -1,0 +1,12 @@
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/bin/Debug/net6.0/Banks.deps.json
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/bin/Debug/net6.0/Banks.dll
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/bin/Debug/net6.0/Banks.pdb
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/obj/Debug/net6.0/Banks.csproj.AssemblyReference.cache
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/obj/Debug/net6.0/Banks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/obj/Debug/net6.0/Banks.AssemblyInfoInputs.cache
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/obj/Debug/net6.0/Banks.AssemblyInfo.cs
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/obj/Debug/net6.0/Banks.csproj.CoreCompileInputs.cache
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/obj/Debug/net6.0/Banks.dll
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/obj/Debug/net6.0/refint/Banks.dll
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/obj/Debug/net6.0/Banks.pdb
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab4/Banks/obj/Debug/net6.0/ref/Banks.dll
